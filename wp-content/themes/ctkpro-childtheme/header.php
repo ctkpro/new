@@ -17,7 +17,7 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>測試改動header生效</title>
+	<title>測試 conflict 我是master</title>
 	<?php wp_head(); ?>
 </head>
 
