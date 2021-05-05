@@ -17,7 +17,9 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>測試 conflict 我是master</title>
+
+	<title>測試dev conflict 我是dev</title>
+
 	<?php wp_head(); ?>
 </head>
 
